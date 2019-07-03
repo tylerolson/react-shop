@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Laptop",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW6KQQ?ver=4b2e",
+    "desc": "A basic laptop computer.",
+    "price": "$1000"
+  },
+  {
+    "name": "Mouse",
+    "image": "https://media.flixcar.com/f360cdn/Microsoft-1608458921-BOM_comp_FY12-zoom.png",
+    "desc": "A basic computer mouse.",
+    "price": "$5"
+  },
+  {
+    "name": "Keyboard",
+    "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c04897548.png",
+    "desc": "A rubberdome keyboard.",
+    "price": "$7.50"
+  }
+]
