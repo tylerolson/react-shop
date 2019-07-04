@@ -16,5 +16,17 @@
     "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c04897548.png",
     "desc": "A rubberdome keyboard.",
     "price": "$7.50"
+  },
+  {
+    "name": "Monitor",
+    "image": "https://static.acer.com/up/Resource/Acer/Monitors/AGW2%20Everyday/Images/20131101/K202HQL_sku_preview.png",
+    "desc": "A basic 1080p monitor.",
+    "price": "$7.50"
+  },
+  {
+    "name": "Desktop",
+    "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05920518.png",
+    "desc": "A basic 1080p monitor.",
+    "price": "$7.50"
   }
 ]
