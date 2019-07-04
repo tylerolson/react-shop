@@ -16,9 +16,10 @@ function App() {
 
   return (
     <div className="App">
-      <form className="search-form">
+      <div className="top-bar">
+        <i className="fas fa-search"></i>
         <input className="search-bar" type="text" placeholder="Search" value={search} onChange={updateSearch} />
-      </form>
+      </div>
       <div className="Products">
       {filteredProducts.map(product => (
           <Product
