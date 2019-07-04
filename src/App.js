@@ -17,12 +17,12 @@ function App() {
   return (
     <div className="App">
       <form className="search-form">
-        <input className="search-bar" type="text" value={search} onChange={updateSearch} />
+        <input className="search-bar" type="text" placeholder="Search" value={search} onChange={updateSearch} />
       </form>
       <div className="Products">
       {filteredProducts.map(product => (
           <Product
-          key={product.name}
+          key={filteredProducts.indexOf(product)}
           name={product.name}
           image={product.image}
           desc={product.desc}
